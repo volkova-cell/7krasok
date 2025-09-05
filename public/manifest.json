@@ -1,0 +1,35 @@
+{
+  "name": "7 КРАСОК - Bali&Thai SPA",
+  "short_name": "7 КРАСОК SPA",
+  "description": "Мобильное приложение спа-салона 7 КРАСОК с балийским и тайским массажем",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#14b8a6",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/placeholder.svg?height=192&width=192",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/placeholder.svg?height=512&width=512",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle", "wellness"],
+  "screenshots": [
+    {
+      "src": "/placeholder.svg?height=640&width=360",
+      "sizes": "360x640",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
