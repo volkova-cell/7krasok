@@ -76,7 +76,7 @@ export default function ServiceDetail({ serviceId, onBack, onBooking }: ServiceD
       `}</style>
 
       {/* Header */}
-      <div className="px-4 py-3 pt-safe bg-white border-b border-light-grey relative z-10">
+      <div className="px-4 py-3 pt-6 bg-white border-b border-light-grey relative z-10">
         <div className="flex items-center gap-3">
           <button onClick={onBack} className="p-2 -m-2 touch-manipulation">
             <ArrowLeft className="w-5 h-5 text-dark-graphite" />
